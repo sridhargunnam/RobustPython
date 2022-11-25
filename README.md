@@ -1,5 +1,5 @@
 # RobustPython
-Code Examples for Robust Python book
+Code Examples for Robust Python book - edited 
 
 Note that to get many of the examples use dummy types and data to not take away from the book example.
 
